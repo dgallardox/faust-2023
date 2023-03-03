@@ -21,8 +21,8 @@ export default function Login() {
 
   return (
     <>
-      <p>Welcome</p>
-      <a href={loginUrl}>login</a>
+        <p>Welcome</p>
+        <a href={loginUrl}>login</a>
     </>
-  )
+  );
 }
